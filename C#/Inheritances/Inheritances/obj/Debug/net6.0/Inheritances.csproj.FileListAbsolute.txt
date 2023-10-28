@@ -1,0 +1,15 @@
+C:\Users\shruti.chaube\Desktop\C#\Inheritances\Inheritances\bin\Debug\net6.0\Inheritances.exe
+C:\Users\shruti.chaube\Desktop\C#\Inheritances\Inheritances\bin\Debug\net6.0\Inheritances.deps.json
+C:\Users\shruti.chaube\Desktop\C#\Inheritances\Inheritances\bin\Debug\net6.0\Inheritances.runtimeconfig.json
+C:\Users\shruti.chaube\Desktop\C#\Inheritances\Inheritances\bin\Debug\net6.0\Inheritances.dll
+C:\Users\shruti.chaube\Desktop\C#\Inheritances\Inheritances\bin\Debug\net6.0\Inheritances.pdb
+C:\Users\shruti.chaube\Desktop\C#\Inheritances\Inheritances\obj\Debug\net6.0\Inheritances.csproj.AssemblyReference.cache
+C:\Users\shruti.chaube\Desktop\C#\Inheritances\Inheritances\obj\Debug\net6.0\Inheritances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shruti.chaube\Desktop\C#\Inheritances\Inheritances\obj\Debug\net6.0\Inheritances.AssemblyInfoInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\Inheritances\Inheritances\obj\Debug\net6.0\Inheritances.AssemblyInfo.cs
+C:\Users\shruti.chaube\Desktop\C#\Inheritances\Inheritances\obj\Debug\net6.0\Inheritances.csproj.CoreCompileInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\Inheritances\Inheritances\obj\Debug\net6.0\Inheritances.dll
+C:\Users\shruti.chaube\Desktop\C#\Inheritances\Inheritances\obj\Debug\net6.0\refint\Inheritances.dll
+C:\Users\shruti.chaube\Desktop\C#\Inheritances\Inheritances\obj\Debug\net6.0\Inheritances.pdb
+C:\Users\shruti.chaube\Desktop\C#\Inheritances\Inheritances\obj\Debug\net6.0\Inheritances.genruntimeconfig.cache
+C:\Users\shruti.chaube\Desktop\C#\Inheritances\Inheritances\obj\Debug\net6.0\ref\Inheritances.dll

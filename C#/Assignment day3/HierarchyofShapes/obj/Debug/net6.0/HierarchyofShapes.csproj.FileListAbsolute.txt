@@ -1,0 +1,5 @@
+C:\Users\shruti.chaube\Desktop\C#\Assignment day3\HierarchyofShapes\obj\Debug\net6.0\HierarchyofShapes.csproj.AssemblyReference.cache
+C:\Users\shruti.chaube\Desktop\C#\Assignment day3\HierarchyofShapes\obj\Debug\net6.0\HierarchyofShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shruti.chaube\Desktop\C#\Assignment day3\HierarchyofShapes\obj\Debug\net6.0\HierarchyofShapes.AssemblyInfoInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\Assignment day3\HierarchyofShapes\obj\Debug\net6.0\HierarchyofShapes.AssemblyInfo.cs
+C:\Users\shruti.chaube\Desktop\C#\Assignment day3\HierarchyofShapes\obj\Debug\net6.0\HierarchyofShapes.csproj.CoreCompileInputs.cache

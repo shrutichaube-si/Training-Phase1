@@ -1,0 +1,15 @@
+C:\Users\shruti.chaube\Desktop\C#\interfac\interfac\bin\Debug\net6.0\interfac.exe
+C:\Users\shruti.chaube\Desktop\C#\interfac\interfac\bin\Debug\net6.0\interfac.deps.json
+C:\Users\shruti.chaube\Desktop\C#\interfac\interfac\bin\Debug\net6.0\interfac.runtimeconfig.json
+C:\Users\shruti.chaube\Desktop\C#\interfac\interfac\bin\Debug\net6.0\interfac.dll
+C:\Users\shruti.chaube\Desktop\C#\interfac\interfac\bin\Debug\net6.0\interfac.pdb
+C:\Users\shruti.chaube\Desktop\C#\interfac\interfac\obj\Debug\net6.0\interfac.csproj.AssemblyReference.cache
+C:\Users\shruti.chaube\Desktop\C#\interfac\interfac\obj\Debug\net6.0\interfac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shruti.chaube\Desktop\C#\interfac\interfac\obj\Debug\net6.0\interfac.AssemblyInfoInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\interfac\interfac\obj\Debug\net6.0\interfac.AssemblyInfo.cs
+C:\Users\shruti.chaube\Desktop\C#\interfac\interfac\obj\Debug\net6.0\interfac.csproj.CoreCompileInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\interfac\interfac\obj\Debug\net6.0\interfac.dll
+C:\Users\shruti.chaube\Desktop\C#\interfac\interfac\obj\Debug\net6.0\refint\interfac.dll
+C:\Users\shruti.chaube\Desktop\C#\interfac\interfac\obj\Debug\net6.0\interfac.pdb
+C:\Users\shruti.chaube\Desktop\C#\interfac\interfac\obj\Debug\net6.0\interfac.genruntimeconfig.cache
+C:\Users\shruti.chaube\Desktop\C#\interfac\interfac\obj\Debug\net6.0\ref\interfac.dll

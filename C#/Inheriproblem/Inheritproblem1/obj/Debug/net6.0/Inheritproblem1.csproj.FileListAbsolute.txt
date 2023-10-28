@@ -1,0 +1,15 @@
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\Inheritproblem1\obj\Debug\net6.0\Inheritproblem1.csproj.AssemblyReference.cache
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\Inheritproblem1\obj\Debug\net6.0\Inheritproblem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\Inheritproblem1\obj\Debug\net6.0\Inheritproblem1.AssemblyInfoInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\Inheritproblem1\obj\Debug\net6.0\Inheritproblem1.AssemblyInfo.cs
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\Inheritproblem1\obj\Debug\net6.0\Inheritproblem1.csproj.CoreCompileInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\Inheritproblem1\bin\Debug\net6.0\Inheritproblem1.exe
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\Inheritproblem1\bin\Debug\net6.0\Inheritproblem1.deps.json
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\Inheritproblem1\bin\Debug\net6.0\Inheritproblem1.runtimeconfig.json
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\Inheritproblem1\bin\Debug\net6.0\Inheritproblem1.dll
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\Inheritproblem1\bin\Debug\net6.0\Inheritproblem1.pdb
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\Inheritproblem1\obj\Debug\net6.0\Inheritproblem1.dll
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\Inheritproblem1\obj\Debug\net6.0\refint\Inheritproblem1.dll
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\Inheritproblem1\obj\Debug\net6.0\Inheritproblem1.pdb
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\Inheritproblem1\obj\Debug\net6.0\Inheritproblem1.genruntimeconfig.cache
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\Inheritproblem1\obj\Debug\net6.0\ref\Inheritproblem1.dll

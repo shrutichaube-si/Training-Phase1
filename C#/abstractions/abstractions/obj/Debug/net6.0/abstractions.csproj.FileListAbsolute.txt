@@ -1,0 +1,15 @@
+C:\Users\shruti.chaube\Desktop\C#\abstractions\abstractions\bin\Debug\net6.0\abstractions.exe
+C:\Users\shruti.chaube\Desktop\C#\abstractions\abstractions\bin\Debug\net6.0\abstractions.deps.json
+C:\Users\shruti.chaube\Desktop\C#\abstractions\abstractions\bin\Debug\net6.0\abstractions.runtimeconfig.json
+C:\Users\shruti.chaube\Desktop\C#\abstractions\abstractions\bin\Debug\net6.0\abstractions.dll
+C:\Users\shruti.chaube\Desktop\C#\abstractions\abstractions\bin\Debug\net6.0\abstractions.pdb
+C:\Users\shruti.chaube\Desktop\C#\abstractions\abstractions\obj\Debug\net6.0\abstractions.csproj.AssemblyReference.cache
+C:\Users\shruti.chaube\Desktop\C#\abstractions\abstractions\obj\Debug\net6.0\abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shruti.chaube\Desktop\C#\abstractions\abstractions\obj\Debug\net6.0\abstractions.AssemblyInfoInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\abstractions\abstractions\obj\Debug\net6.0\abstractions.AssemblyInfo.cs
+C:\Users\shruti.chaube\Desktop\C#\abstractions\abstractions\obj\Debug\net6.0\abstractions.csproj.CoreCompileInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\abstractions\abstractions\obj\Debug\net6.0\abstractions.dll
+C:\Users\shruti.chaube\Desktop\C#\abstractions\abstractions\obj\Debug\net6.0\refint\abstractions.dll
+C:\Users\shruti.chaube\Desktop\C#\abstractions\abstractions\obj\Debug\net6.0\abstractions.pdb
+C:\Users\shruti.chaube\Desktop\C#\abstractions\abstractions\obj\Debug\net6.0\abstractions.genruntimeconfig.cache
+C:\Users\shruti.chaube\Desktop\C#\abstractions\abstractions\obj\Debug\net6.0\ref\abstractions.dll

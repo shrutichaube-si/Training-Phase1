@@ -1,0 +1,15 @@
+C:\Users\shruti.chaube\Desktop\C#\deligatessss\deligatessss\obj\Debug\net6.0\deligatessss.csproj.AssemblyReference.cache
+C:\Users\shruti.chaube\Desktop\C#\deligatessss\deligatessss\obj\Debug\net6.0\deligatessss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shruti.chaube\Desktop\C#\deligatessss\deligatessss\obj\Debug\net6.0\deligatessss.AssemblyInfoInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\deligatessss\deligatessss\obj\Debug\net6.0\deligatessss.AssemblyInfo.cs
+C:\Users\shruti.chaube\Desktop\C#\deligatessss\deligatessss\obj\Debug\net6.0\deligatessss.csproj.CoreCompileInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\deligatessss\deligatessss\bin\Debug\net6.0\deligatessss.exe
+C:\Users\shruti.chaube\Desktop\C#\deligatessss\deligatessss\bin\Debug\net6.0\deligatessss.deps.json
+C:\Users\shruti.chaube\Desktop\C#\deligatessss\deligatessss\bin\Debug\net6.0\deligatessss.runtimeconfig.json
+C:\Users\shruti.chaube\Desktop\C#\deligatessss\deligatessss\bin\Debug\net6.0\deligatessss.dll
+C:\Users\shruti.chaube\Desktop\C#\deligatessss\deligatessss\bin\Debug\net6.0\deligatessss.pdb
+C:\Users\shruti.chaube\Desktop\C#\deligatessss\deligatessss\obj\Debug\net6.0\deligatessss.dll
+C:\Users\shruti.chaube\Desktop\C#\deligatessss\deligatessss\obj\Debug\net6.0\refint\deligatessss.dll
+C:\Users\shruti.chaube\Desktop\C#\deligatessss\deligatessss\obj\Debug\net6.0\deligatessss.pdb
+C:\Users\shruti.chaube\Desktop\C#\deligatessss\deligatessss\obj\Debug\net6.0\deligatessss.genruntimeconfig.cache
+C:\Users\shruti.chaube\Desktop\C#\deligatessss\deligatessss\obj\Debug\net6.0\ref\deligatessss.dll

@@ -1,0 +1,15 @@
+C:\Users\shruti.chaube\Desktop\C#\Linqeee\Linqeee\bin\Debug\net6.0\Linqeee.exe
+C:\Users\shruti.chaube\Desktop\C#\Linqeee\Linqeee\bin\Debug\net6.0\Linqeee.deps.json
+C:\Users\shruti.chaube\Desktop\C#\Linqeee\Linqeee\bin\Debug\net6.0\Linqeee.runtimeconfig.json
+C:\Users\shruti.chaube\Desktop\C#\Linqeee\Linqeee\bin\Debug\net6.0\Linqeee.dll
+C:\Users\shruti.chaube\Desktop\C#\Linqeee\Linqeee\bin\Debug\net6.0\Linqeee.pdb
+C:\Users\shruti.chaube\Desktop\C#\Linqeee\Linqeee\obj\Debug\net6.0\Linqeee.csproj.AssemblyReference.cache
+C:\Users\shruti.chaube\Desktop\C#\Linqeee\Linqeee\obj\Debug\net6.0\Linqeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shruti.chaube\Desktop\C#\Linqeee\Linqeee\obj\Debug\net6.0\Linqeee.AssemblyInfoInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\Linqeee\Linqeee\obj\Debug\net6.0\Linqeee.AssemblyInfo.cs
+C:\Users\shruti.chaube\Desktop\C#\Linqeee\Linqeee\obj\Debug\net6.0\Linqeee.csproj.CoreCompileInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\Linqeee\Linqeee\obj\Debug\net6.0\Linqeee.dll
+C:\Users\shruti.chaube\Desktop\C#\Linqeee\Linqeee\obj\Debug\net6.0\refint\Linqeee.dll
+C:\Users\shruti.chaube\Desktop\C#\Linqeee\Linqeee\obj\Debug\net6.0\Linqeee.pdb
+C:\Users\shruti.chaube\Desktop\C#\Linqeee\Linqeee\obj\Debug\net6.0\Linqeee.genruntimeconfig.cache
+C:\Users\shruti.chaube\Desktop\C#\Linqeee\Linqeee\obj\Debug\net6.0\ref\Linqeee.dll

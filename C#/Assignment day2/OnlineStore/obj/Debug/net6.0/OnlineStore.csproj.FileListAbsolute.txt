@@ -1,0 +1,15 @@
+C:\Users\shruti.chaube\Desktop\C#\Assignment day2\OnlineStore\obj\Debug\net6.0\OnlineStore.csproj.AssemblyReference.cache
+C:\Users\shruti.chaube\Desktop\C#\Assignment day2\OnlineStore\obj\Debug\net6.0\OnlineStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shruti.chaube\Desktop\C#\Assignment day2\OnlineStore\obj\Debug\net6.0\OnlineStore.AssemblyInfoInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\Assignment day2\OnlineStore\obj\Debug\net6.0\OnlineStore.AssemblyInfo.cs
+C:\Users\shruti.chaube\Desktop\C#\Assignment day2\OnlineStore\obj\Debug\net6.0\OnlineStore.csproj.CoreCompileInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\Assignment day2\OnlineStore\bin\Debug\net6.0\OnlineStore.exe
+C:\Users\shruti.chaube\Desktop\C#\Assignment day2\OnlineStore\bin\Debug\net6.0\OnlineStore.deps.json
+C:\Users\shruti.chaube\Desktop\C#\Assignment day2\OnlineStore\bin\Debug\net6.0\OnlineStore.runtimeconfig.json
+C:\Users\shruti.chaube\Desktop\C#\Assignment day2\OnlineStore\bin\Debug\net6.0\OnlineStore.dll
+C:\Users\shruti.chaube\Desktop\C#\Assignment day2\OnlineStore\bin\Debug\net6.0\OnlineStore.pdb
+C:\Users\shruti.chaube\Desktop\C#\Assignment day2\OnlineStore\obj\Debug\net6.0\OnlineStore.dll
+C:\Users\shruti.chaube\Desktop\C#\Assignment day2\OnlineStore\obj\Debug\net6.0\refint\OnlineStore.dll
+C:\Users\shruti.chaube\Desktop\C#\Assignment day2\OnlineStore\obj\Debug\net6.0\OnlineStore.pdb
+C:\Users\shruti.chaube\Desktop\C#\Assignment day2\OnlineStore\obj\Debug\net6.0\OnlineStore.genruntimeconfig.cache
+C:\Users\shruti.chaube\Desktop\C#\Assignment day2\OnlineStore\obj\Debug\net6.0\ref\OnlineStore.dll

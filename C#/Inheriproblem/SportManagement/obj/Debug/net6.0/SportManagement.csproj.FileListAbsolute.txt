@@ -1,0 +1,15 @@
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\SportManagement\bin\Debug\net6.0\SportManagement.exe
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\SportManagement\bin\Debug\net6.0\SportManagement.deps.json
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\SportManagement\bin\Debug\net6.0\SportManagement.runtimeconfig.json
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\SportManagement\bin\Debug\net6.0\SportManagement.dll
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\SportManagement\bin\Debug\net6.0\SportManagement.pdb
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\SportManagement\obj\Debug\net6.0\SportManagement.csproj.AssemblyReference.cache
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\SportManagement\obj\Debug\net6.0\SportManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\SportManagement\obj\Debug\net6.0\SportManagement.AssemblyInfoInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\SportManagement\obj\Debug\net6.0\SportManagement.AssemblyInfo.cs
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\SportManagement\obj\Debug\net6.0\SportManagement.csproj.CoreCompileInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\SportManagement\obj\Debug\net6.0\SportManagement.dll
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\SportManagement\obj\Debug\net6.0\refint\SportManagement.dll
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\SportManagement\obj\Debug\net6.0\SportManagement.pdb
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\SportManagement\obj\Debug\net6.0\SportManagement.genruntimeconfig.cache
+C:\Users\shruti.chaube\Desktop\C#\Inheriproblem\SportManagement\obj\Debug\net6.0\ref\SportManagement.dll

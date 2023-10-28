@@ -1,0 +1,5 @@
+C:\Users\shruti.chaube\Desktop\C#\Assignment day3\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.csproj.AssemblyReference.cache
+C:\Users\shruti.chaube\Desktop\C#\Assignment day3\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shruti.chaube\Desktop\C#\Assignment day3\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.AssemblyInfoInputs.cache
+C:\Users\shruti.chaube\Desktop\C#\Assignment day3\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.AssemblyInfo.cs
+C:\Users\shruti.chaube\Desktop\C#\Assignment day3\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.csproj.CoreCompileInputs.cache
